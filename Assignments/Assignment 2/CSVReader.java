@@ -5,7 +5,6 @@ import java.util.Scanner;
  * files
  * 
  * @author Rakshita Mathur, University of Ottawa
- * @author Dhara Patel, University of Ottawa
  *
  */
 
