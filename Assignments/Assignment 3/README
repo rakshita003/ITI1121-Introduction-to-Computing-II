@@ -8,7 +8,7 @@ Task 6. Complete the GainInfoItem class
 
 Task 7. Complete the InformationGainEvaluator class
 
-This archive contains the _  files of the Assignemnt 3, that is, this file (README.txt),
+This archive contains the 13 files of the Assignemnt 3, that is, this file (README.txt),
 the files AttributeType.java, DataReader.java, DataSet.java, Util.java, CSVReader.java (from A2), Attribute.java (from A2),
 ActualDataSet.java (from A2), VirtualDataSet.java (from A2), EntropyEvaluator.java (new in A3), GainInfoItem.java (new in A3) ,
 InformationGainCalculator.java (new in A3) and Instruction 2&3.pdf.
