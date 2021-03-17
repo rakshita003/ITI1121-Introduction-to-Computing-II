@@ -3,7 +3,6 @@
  * that holds a data matrix
  * 
  * @author Rakshita Mathur, University of Ottawa
- * @author Dhara Patel, University of Ottawa
  *
  */
 public class ActualDataSet extends DataSet {
