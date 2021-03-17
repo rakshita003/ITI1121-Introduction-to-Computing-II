@@ -1,0 +1,2 @@
+# ITI-1121-Winter2021
+My lab for ITI1121 at the University of Ottawa. Closed source until the end of Winter 2021. Please use these assignments for learning purposes only and do not use them to cheat as that is illegal.  
