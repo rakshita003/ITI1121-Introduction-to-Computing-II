@@ -1,3 +1,12 @@
+/**
+ * This class is used for representing a virtual dataset, that is, a dataset
+ * that is a view over an actual dataset. A virtual dataset has no data matrix
+ * of its own.
+ * 
+ * @author Rakshita Mathur, University of Ottawa
+ *
+ */
+
 import java.util.LinkedList;
 
 
