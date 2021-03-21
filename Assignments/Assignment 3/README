@@ -8,5 +8,11 @@ Task 6. Complete the GainInfoItem class
 
 Task 7. Complete the InformationGainEvaluator class
 
-This archive contains the 4 files of the Assignemnt 3, that is, this file (README.txt),
-the files  EntropyEvaluator.java, GainInfoItem.java, InformationGainCalculator.java.
+This archive contains the 13 files. 5 of the files are of Assignment 3, that is, this file (README.txt),
+the files EntropyEvaluator.java, GainInfoItem.java, InformationGainCalculator.java, StudentInfo.java.
+There are 8 files from Assignment 2, that are : AttributeType.java, DataReader.java, DataSet.java, Util.java, 
+CSVReader.java, Attribute.java, ActualDataSet.java, VirtualDataSet.java,
+
+In Assignment 3 we considered all possible partitions of the input data that we already read into a matrix and
+"split" (in Assignment 1 and 2). Different classes were created to calculate Entropy and Gain. The DataSet can now
+now be split over an attribute, both numerical or nominal attribute, which gives the lowest entropy.
