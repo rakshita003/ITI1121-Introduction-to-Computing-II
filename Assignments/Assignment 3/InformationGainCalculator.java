@@ -1,7 +1,8 @@
-   /**
+/**
  * This class enables the calculation and sorting of information gain values
+ * @author Rakshita Mathur, University of Ottawa
  * 
-  */
+ */
 public class InformationGainCalculator {
 
 	/**
