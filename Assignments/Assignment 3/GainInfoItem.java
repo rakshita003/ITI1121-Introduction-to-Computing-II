@@ -1,4 +1,7 @@
-
+/*
+* @author Rakshita Mathur, University of Ottawa
+*
+*/
 
 public class GainInfoItem {
 
@@ -48,9 +51,7 @@ public class GainInfoItem {
 	 * @return attribute name
 	 */
 	public String getAttributeName() {
-		// WRITE YOUR CODE HERE!
 		
-		//Remove the following line when this method has been implemented
 		return this.attributeName;
 	}
 
