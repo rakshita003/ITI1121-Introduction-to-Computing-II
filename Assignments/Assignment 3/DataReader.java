@@ -1,9 +1,6 @@
 /**
  * An interface that provides methods for reading a raw (unprocessed) dataset.
  * 
- * @author Mehrdad Sabetzadeh, University of Ottawa
- * @author Guy-Vincent Jourdan, University of Ottawa
- *
  */
 public interface DataReader {
 
