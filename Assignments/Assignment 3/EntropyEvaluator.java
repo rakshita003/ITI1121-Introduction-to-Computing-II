@@ -1,4 +1,8 @@
-
+/**
+ *
+ * @author Rakshita Mathur, University of Ottawa
+ *
+ */
 public class EntropyEvaluator {
 
 	/**
@@ -138,14 +142,3 @@ public class EntropyEvaluator {
 		return (Math.log(x) / Math.log(2));
 	}
 }
-
- // // Entropy
-		// double weightedAvgEntropy = 0.0; 
-        // double size    = (double) partitions.length;
-        // double entropy = 0.0;
-        // for (int i = 0; i < partitions.length; i++) {
-        //     double p = 1.0* classArray[i]/size;
-		// 	if ( classArray[i] > 0)
-        //     entropy = entropy - (p*(log2(p))); 
-		// 	weightedAvgEntropy  += p*entropy;
-        //     }
