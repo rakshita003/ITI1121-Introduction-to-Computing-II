@@ -5,8 +5,6 @@ import java.util.LinkedList;
  * that is a view over an actual dataset. A virtual dataset has no data matrix
  * of its own.
  * 
- * @author Mehrdad Sabetzadeh, University of Ottawa
- * @author Guy-Vincent Jourdan, University of Ottawa
  *
  */
 public class VirtualDataSet extends DataSet {
