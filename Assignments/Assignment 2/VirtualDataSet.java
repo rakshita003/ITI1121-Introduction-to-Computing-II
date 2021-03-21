@@ -260,8 +260,6 @@ public class VirtualDataSet extends DataSet {
 
 	public static void main(String[] args) throws Exception {
 
-		StudentInfo.display();
-
 		System.out.println("============================================");
 		System.out.println("THE WEATHER-NOMINAL DATASET:");
 		System.out.println();
