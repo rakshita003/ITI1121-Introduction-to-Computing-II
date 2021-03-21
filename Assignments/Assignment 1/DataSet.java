@@ -131,8 +131,6 @@ public class DataSet{
     }
     public static void main(String[] args) throws Exception {
 
-        StudentInfo.display();
-
         System.out.print("Please enter the name of the CSV file to read: ");
 
         Scanner scanner = new Scanner(System.in);
