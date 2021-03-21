@@ -2,9 +2,6 @@
  * This abstract class factors out code that is common to both actual and
  * virtual datasets
  * 
- * @author Mehrdad Sabetzadeh, University of Ottawa
- * @author Guy-Vincent Jourdan, University of Ottawa
- *
  */
 public abstract class DataSet {
 	/**
