@@ -8,8 +8,8 @@ Task 6. Complete the GainInfoItem class
 
 Task 7. Complete the InformationGainEvaluator class
 
-This archive contains the 13 files. 5 of the files are of Assignment 3, that is, this file (README.txt),
-the files EntropyEvaluator.java, GainInfoItem.java, InformationGainCalculator.java, StudentInfo.java.
+This archive contains the 12 files. 4 of the files are of Assignment 3, that is, this file (README.txt),
+the files EntropyEvaluator.java, GainInfoItem.java, InformationGainCalculator.java.
 There are 8 files from Assignment 2,(updated) that are : AttributeType.java, DataReader.java, DataSet.java, Util.java, 
 CSVReader.java, Attribute.java, ActualDataSet.java, VirtualDataSet.java,
 
