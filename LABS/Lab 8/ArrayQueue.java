@@ -1,11 +1,3 @@
-// -*- Mode: Java -*- 
-// ArrayQueue.java --- simple implementation of a queue, fixed size, 
-// moves the queue to the start of the array whenever it reaches the end
-// Author          : Marcel Turcotte
-// Created On      : Mon Mar  8 20:52:03 2004
-// Last Modified By: Marcel Turcotte
-// Last Modified On: Sat Mar  3 07:58:44 2007
-// ITI 1121/1521. Introduction to Computer Science II
 
 public class ArrayQueue<E> implements Queue<E> {
 
