@@ -1,0 +1,13 @@
+The uploaded pdf contains instructions4 for Assignment 4 and the template zip file at the end.
+
+Major Tasks for Assignment 4 :
+
+Task 1: Build a decision tree for given dataset.
+
+Task 2: Write a toString() method that provides an if-else representation of the decision tree. The toString() method
+        will call a recursive toString(...) method. 
+       
+Task 3: Implement exception handling for the methods in DecisionTree, as well as for the methods in
+        the three classes you developed in Assignment 3.
+        
+
