@@ -1,9 +1,6 @@
 /**
  * This class is used for representing an attribute of a dataset, be the dataset
  * an actual one (with a data matrix) or a virtual one (without a data matrix).
- * 
- * @author Mehrdad Sabetzadeh, University of Ottawa
- * @author Guy-Vincent Jourdan, University of Ottawa
  *
  */
 public class Attribute {
