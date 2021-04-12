@@ -1,9 +1,6 @@
 /**
  * This is a utility class to simplify the implementation of metadataToString()
  * in the DataSet class.
- * 
- * @author Mehrdad Sabetzadeh, University of Ottawa
- * @author Guy-Vincent Jourdan, University of Ottawa
  *
  */
 public class Util {
