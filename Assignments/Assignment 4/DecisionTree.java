@@ -2,8 +2,7 @@
 /**
  * This class enables the construction of a decision tree
  * 
- * @author Mehrdad Sabetzadeh, University of Ottawa
- * @author Guy-Vincent Jourdan, University of Ottawa
+ * @author Rakshita Msthur, University of Ottawa
  *
  */
 
@@ -180,7 +179,8 @@ public class DecisionTree {
 					if ( child.children == null) {
 						//choosing the first unique attribute value for class if there is more than 1 : child.data.getUniqueAttributeValues(classIndex)[0]
 						int classIndex = child.data.getNumberOfAttributes() - 1;
-						System.out.println(createIndent(indentDepth+ 2) + child.data.getAttribute(classIndex).getName() + " = " + child.data.getUniqueAttributeValues(classIndex)[0]); 
+						System.out.println(createIndent(indentDepth+ 2) + child.data.getAttribute(classIndex).getName() +
+								   " = " + child.data.getUniqueAttributeValues(classIndex)[0]); 
 					}
 				
 				}
@@ -190,7 +190,8 @@ public class DecisionTree {
 					if ( child.children == null) {
 						//choosing the first unique attribute value for class if there is more than 1 : child.data.getUniqueAttributeValues(classIndex)[0]
 						int classIndex = child.data.getNumberOfAttributes() - 1;
-						System.out.println(createIndent(indentDepth+ 2) + child.data.getAttribute(classIndex).getName() +" = "+ child.data.getUniqueAttributeValues(classIndex)[0]);	
+						System.out.println(createIndent(indentDepth+ 2) + child.data.getAttribute(classIndex).getName() +
+								   " = "+ child.data.getUniqueAttributeValues(classIndex)[0]);	
 					}
 				}
 			
@@ -223,7 +224,7 @@ public class DecisionTree {
 
 	public static void main(String[] args) throws Exception {
 	
-		StudentInfo.display();
+		//StudentInfo.display();
 
 		if (args == null || args.length == 0) {
 			System.out.println("Expected a file name as argument!");
