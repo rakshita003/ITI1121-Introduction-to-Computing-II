@@ -1,9 +1,6 @@
 /**
  * This class enables calculating (weighted-average) entropy values for a set of
  * datasets
- * 
- * @author Mehrdad Sabetzadeh, University of Ottawa
- * @author Guy-Vincent Jourdan, University of Ottawa
  *
  */
 public class EntropyEvaluator {
