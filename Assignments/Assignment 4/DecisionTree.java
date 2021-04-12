@@ -2,7 +2,7 @@
 /**
  * This class enables the construction of a decision tree
  * 
- * @author Rakshita Msthur, University of Ottawa
+ * @author Rakshita Mathur, University of Ottawa
  *
  */
 
