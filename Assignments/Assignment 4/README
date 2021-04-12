@@ -10,4 +10,14 @@ Task 2: Write a toString() method that provides an if-else representation of the
 Task 3: Implement exception handling for the methods in DecisionTree, as well as for the methods in
         the three classes you developed in Assignment 3.
         
+This archive contains the 13 files. 2 of the files are of Assignment 4, that is, this file (README.txt),
+and DecisionTree.java.
+The 3 files from Assignment 3 that have been updated with exceptions are EntropyEvaluator.java, GainInfoItem.java,
+InformationGainCalculator.java 
+There are 8 files from Assignment 2 solution (provided), that are : AttributeType.java, DataReader.java, 
+DataSet.java, Util.java, CSVReader.java, Attribute.java, ActualDataSet.java, VirtualDataSet.java
 
+In Assignment 4 we considered all possible partitions of the input data that gave the best split and created a 
+decision tree based on the attribute that gave the highest information gain. DecisionTree was created to 
+keep track of the Nodes of the decision tree using recursive programming and linked lists. Exceptions were
+added when appropriate in the files of A4 and A3.
