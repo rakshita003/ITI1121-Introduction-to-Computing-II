@@ -1,9 +1,6 @@
 /**
  * This class is used for representing an actual dataset, that is, a dataset
  * that holds a data matrix
- * 
- * @author Mehrdad Sabetzadeh, University of Ottawa
- * @author Guy-Vincent Jourdan, University of Ottawa
  *
  */
 public class ActualDataSet extends DataSet {
