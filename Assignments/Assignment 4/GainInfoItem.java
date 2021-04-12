@@ -1,8 +1,5 @@
 /**
  * This class enables storing the results of information gain calculations
- * 
- * @author Mehrdad Sabetzadeh, University of Ottawa
- * @author Guy-Vincent Jourdan, University of Ottawa
  *
  */
 public class GainInfoItem {
