@@ -4,9 +4,6 @@ import java.util.Scanner;
 /**
  * This class provides an implementation of the DataReader interface for CSV
  * files
- * 
- * @author Mehrdad Sabetzadeh, University of Ottawa
- * @author Guy-Vincent Jourdan, University of Ottawa
  *
  */
 public class CSVReader implements DataReader {
