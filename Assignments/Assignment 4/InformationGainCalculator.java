@@ -1,8 +1,5 @@
 /**
  * This class enables the calculation and sorting of information gain values
- * 
- * @author Mehrdad Sabetzadeh, University of Ottawa
- * @author Guy-Vincent Jourdan, University of Ottawa
  *
  */
 public class InformationGainCalculator {
