@@ -18,9 +18,9 @@ This course, ITI 1121 Introduction to Computing II, is a 3-unit course that focu
 
 The repository is organized as follows:
 
-- **midterm-labs/**: Contains solutions and materials related to the midterm labs.
-- **final-exam/**: Contains my solution to the final exam.
-- **Labs/**: This directory contains the solutions for the weekly labs
+- **Midterm**: Contains solutions and materials related to the midterm labs.
+- **Final-exam**: Contains my solution to the final exam.
+- **Labs**: This directory contains the solutions for the weekly labs
 
 ## Course Website
 
