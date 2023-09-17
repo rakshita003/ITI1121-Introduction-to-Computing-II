@@ -24,7 +24,7 @@ The repository is organized as follows:
 
 ## Course Website
 
-Here is the like to the [Course webiste](https://www.site.uottawa.ca/~gvj/Courses/ITI1121/lectures/index.html)
+Here is the link to the Course website [here](https://www.site.uottawa.ca/~gvj/Courses/ITI1121/lectures/index.html).
 
 ## Usage
 
